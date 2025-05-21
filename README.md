@@ -1,6 +1,9 @@
 # Heart Disease Prediction using Machine Learning
+---
 
 This project uses machine learning to predict whether a person is likely to have heart disease based on clinical attributes. It includes a trained model using a Random Forest Classifier and a user-friendly web app built with Streamlit.
+
+---
 Database Link: https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci
 ---
 
